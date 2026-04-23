@@ -1,3 +1,4 @@
 .DS_Store
 *.alfredworkflow
 output/.gitkeep
+.github/.DS_Store
